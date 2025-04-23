@@ -1,3 +1,7 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import ProductCardFull from '@/components/ProductCardFull.vue'
+</script>
 
-<template></template>
+<template>
+  <ProductCardFull />
+</template>
