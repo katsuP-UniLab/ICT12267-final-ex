@@ -1,3 +1,7 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import ContactForm from '@/components/ContactForm.vue'
+</script>
 
-<template></template>
+<template>
+  <ContactForm />
+</template>
