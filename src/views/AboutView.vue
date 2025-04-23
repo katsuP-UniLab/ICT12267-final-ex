@@ -1,3 +1,7 @@
-<script setup lang="ts"></script>
+<script setup lang="ts">
+import About from '@/components/About.vue'
+</script>
 
-<template></template>
+<template>
+  <About />
+</template>
