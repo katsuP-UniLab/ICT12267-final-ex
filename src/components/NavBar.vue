@@ -1,7 +1,7 @@
 <script setup lang="ts"></script>
 
 <template>
-  <nav class="bg-white dark:bg-gray-800 antialiased">
+  <nav class="bg-white dark:bg-gray-800 antialiased sticky top-0 left-0 w-full">
     <div class="max-w-screen-xl px-4 mx-auto 2xl:px-0 py-4">
       <div class="flex items-center justify-between">
         <div class="flex items-center space-x-8">
