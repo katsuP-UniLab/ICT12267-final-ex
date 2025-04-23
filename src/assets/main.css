@@ -1,0 +1,31 @@
+@import url(https://fonts.googleapis.com/css?family=IBM+Plex+Sans+Thai:100,200,300,regular,500,600,700);
+
+@import 'tailwindcss';
+
+@theme {
+  --font-display: 'IBM Plex Sans Thai', 'sans-serif';
+
+  --color-living-coral: rgb(254, 110, 111);
+  --color-jet: rgb(46, 47, 47);
+  --color-pastel-black: rgb(10, 10, 10);
+  --color-whitesmoke: rgb(245, 245, 245);
+  --color-overlay: rgba(0, 0, 0, 0.6);
+
+  --color-cat-sapphire: rgb(125, 196, 228);
+  --color-cat-base: rgb(36, 39, 58);
+  --color-cat-mantle: rgb(30, 32, 48);
+  --color-cat-crust: rgb(24, 25, 38);
+  --color-cat-text: rgb(202, 211, 245);
+  --color-cat-subtext-0: rgb(165, 173, 203);
+  --color-cat-subtext-1: rgb(184, 192, 224);
+  --color-cat-overlay-0: rgb(110, 115, 141);
+  --color-cat-overlay-1: rgb(128, 135, 162);
+  --color-cat-overlay-2: rgb(147, 154, 183);
+  --color-cat-surface-0: rgb(54, 58, 79);
+  --color-cat-surface-1: rgb(73, 77, 100);
+  --color-cat-surface-2: rgb(91, 96, 120);
+}
+
+* {
+  transition: all 0.3s;
+}
