@@ -160,7 +160,7 @@
           class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800"
         >
           <div class="h-56 w-full">
-            <a href="#">
+            <a href="/items">
               <img
                 class="mx-auto h-full dark:hidden"
                 src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/imac-front.svg"
@@ -254,7 +254,7 @@
             </div>
 
             <a
-              href="#"
+              href="/items"
               class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white"
               >Apple iMac 27", 1TB HDD, Retina 5K Display, M3 Max</a
             >
@@ -400,7 +400,7 @@
           class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800"
         >
           <div class="h-56 w-full">
-            <a href="#">
+            <a href="/items">
               <img
                 class="mx-auto h-full dark:hidden"
                 src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/iphone-light.svg"
@@ -495,7 +495,7 @@
             </div>
 
             <a
-              href="#"
+              href="/items"
               class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white"
               >Apple iPhone 15 Pro Max, 256GB, Blue Titanium</a
             >
@@ -643,7 +643,7 @@
           class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800"
         >
           <div class="h-56 w-full">
-            <a href="#">
+            <a href="/items">
               <img
                 class="mx-auto h-full dark:hidden"
                 src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/ipad-light.svg"
@@ -738,7 +738,7 @@
             </div>
 
             <a
-              href="#"
+              href="/items"
               class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white"
               >iPad Pro 13-Inch (M4): XDR Display, 512GB</a
             >
@@ -884,7 +884,7 @@
           class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800"
         >
           <div class="h-56 w-full">
-            <a href="#">
+            <a href="/items">
               <img
                 class="mx-auto h-full dark:hidden"
                 src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/ps5-light.svg"
@@ -979,7 +979,7 @@
             </div>
 
             <a
-              href="#"
+              href="/items"
               class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white"
               >PlayStation®5 Console – 1TB, PRO Controller</a
             >
@@ -1125,7 +1125,7 @@
           class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800"
         >
           <div class="h-56 w-full">
-            <a href="#">
+            <a href="/items">
               <img
                 class="mx-auto h-full dark:hidden"
                 src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/xbox-light.svg"
@@ -1220,7 +1220,7 @@
             </div>
 
             <a
-              href="#"
+              href="/items"
               class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white"
               >Microsoft Xbox Series X 1TB Gaming Console</a
             >
@@ -1368,7 +1368,7 @@
           class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800"
         >
           <div class="h-56 w-full">
-            <a href="#">
+            <a href="/items">
               <img
                 class="mx-auto h-full dark:hidden"
                 src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/macbook-pro-light.svg"
@@ -1463,7 +1463,7 @@
             </div>
 
             <a
-              href="#"
+              href="/items"
               class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white"
               >Apple MacBook PRO Laptop with M2 chip</a
             >
@@ -1609,7 +1609,7 @@
           class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800"
         >
           <div class="h-56 w-full">
-            <a href="#">
+            <a href="/items">
               <img
                 class="mx-auto h-full dark:hidden"
                 src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/apple-watch-light.svg"
@@ -1704,7 +1704,7 @@
             </div>
 
             <a
-              href="#"
+              href="/items"
               class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white"
               >Apple Watch SE [GPS 40mm], Smartwatch</a
             >
@@ -1850,7 +1850,7 @@
           class="rounded-lg border border-gray-200 bg-white p-6 shadow-sm dark:border-gray-700 dark:bg-gray-800"
         >
           <div class="h-56 w-full">
-            <a href="#">
+            <a href="/items">
               <img
                 class="mx-auto h-full dark:hidden"
                 src="https://flowbite.s3.amazonaws.com/blocks/e-commerce/ipad-keyboard.svg"
@@ -1944,7 +1944,7 @@
             </div>
 
             <a
-              href="#"
+              href="/items"
               class="text-lg font-semibold leading-tight text-gray-900 hover:underline dark:text-white"
               >Microsoft Surface Pro, Copilot+ PC, 13 Inch</a
             >
